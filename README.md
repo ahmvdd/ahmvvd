@@ -56,14 +56,6 @@ Here are some of the technologies I'm proficient in:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ahmvdd&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ahmvdd&theme=merko&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmvdd&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ahmvdd&icon=0&color=3)](https://visitcount.itsvg.in)
