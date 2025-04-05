@@ -1,4 +1,5 @@
-# hello 🙌
+# hello ![image](https://github.com/user-attachments/assets/d4f289c7-4af3-4650-b27d-004bfbf5cc3c)
+
 
 ## 💫 About Me
 
